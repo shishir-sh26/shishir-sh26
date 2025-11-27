@@ -13,11 +13,7 @@ SHISHIR R KULAL<br><br>Full Stack Dev | ML Enthusiast | IOT | Trainer<br><br>Bas
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shishir-sh26&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br/>
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shishir-sh26/shishir-sh26/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shishir-sh26/shishir-sh26/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shishir-sh26/shishir-sh26/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shishir-sh26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
