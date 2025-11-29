@@ -10,7 +10,7 @@ SHISHIR R KULAL<br><br>Full Stack Dev | ML Enthusiast | IOT | Trainer<br><br>Bas
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shishir-sh26&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shishir-sh26&theme=merko&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shishir-sh26&theme=merko&hide_border=false&exclude_forks=true&layout=normal)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shishir-sh26&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br/>
 <br/>
 
@@ -23,3 +23,5 @@ SHISHIR R KULAL<br><br>Full Stack Dev | ML Enthusiast | IOT | Trainer<br><br>Bas
 
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shishir-sh26.shishir-sh26)
+
+Can u add the most used language and remove the older one like the option where it shows most used language in the all of repos show it in like percentage wise what lanyi use more and remove the previous one which showed that option
