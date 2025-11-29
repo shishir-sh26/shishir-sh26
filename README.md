@@ -10,7 +10,7 @@ SHISHIR R KULAL<br><br>Full Stack Dev | ML Enthusiast | IOT | Trainer<br><br>Bas
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shishir-sh26&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shishir-sh26&theme=merko&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shishir-sh26&theme=merko&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shishir-sh26&theme=merko&hide_border=false&exclude_forks=true&layout=normal)
 <br/>
 <br/>
 
