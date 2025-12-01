@@ -1,5 +1,5 @@
 # 💫 About Me:
-SHISHIR R KULAL<br><br>Full Stack Dev | ML Enthusiast | IOT | Trainer<br><br>Based in Mangalore. I build web apps with React,Next.js & Node.js and make them smart with Python & Deep Learning.<br><br>🔭 Working on: City Tech & Agri-TechL<br><br>🌱 Exploring: Generative AI & Road Monitoring Vision Systems<br><br>📫 Reach me: [shishirkulal1234@gmail.com]
+SHISHIR R KULAL<br><br>Full Stack Dev | ML Enthusiast | IOT | Trainer<br><br>Based in Mangalore. I build web apps with React,Next.js & Node.js and make them smart with Python & Deep Learning.<br><br>🔭 Working on: City Tech & Agri-TechL<br><br>🌱 Exploring: Generative AI & Road Monitoring Vision Systems<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bwmmerc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shishir-r-kulal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shishirkulal1234@gmail.com) 
