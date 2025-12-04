@@ -14,6 +14,5 @@ SHISHIR R KULAL<br><br>Full Stack Dev | ML Enthusiast | IOT | Trainer<br><br>Bas
 <br/>
 
 
-![](https://github-profile-trophy.vercel.app/?username=shishir-sh26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shishir-sh26.shishir-sh26)
