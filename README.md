@@ -10,10 +10,5 @@ SHISHIR R KULAL<br><br>Full Stack Dev | ML Enthusiast | IOT | Trainer<br><br>Bas
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-# 📊 GitHub Stats:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shishir-sh26&layout=compact&theme=dark)
-
-![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=shishir-sh26&show_icons=true&theme=dark)
-
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shishir-sh26.shishir-sh26)
