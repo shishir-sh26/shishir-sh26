@@ -14,9 +14,6 @@ SHISHIR R KULAL<br><br>Full Stack Dev | ML Enthusiast | IOT | Trainer<br><br>Bas
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 
-
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shishir-sh26.shishir-sh26)
 ---
-
-
