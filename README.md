@@ -30,8 +30,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-
-
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shishir-sh26.shishir-sh26)
 ---
